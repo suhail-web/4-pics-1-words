@@ -1,0 +1,28 @@
+{
+  "levels": [
+    {
+      "word": "dodo",
+      "letters": [ "j", "k", "l", "m", "n", "o", "p", "q", "d", "s", "d", "o" ],
+      "pictures": "level-1-pictures.png",
+      "background": "level-1-background.png"
+    },
+    {
+      "word": "nature",
+      "letters": [ "a", "b", "e", "r", "n", "t", "p", "q", "d", "t", "u", "q" ],
+      "pictures": "level-2-pictures.png",
+      "background": "level-2-background.png"
+    },
+    {
+      "word": "cyclone",
+      "letters": [ "e", "o", "l", "c", "n", "b", "c", "q", "d", "n", "y", "x" ],
+      "pictures": "level-3-pictures.png",
+      "background": "level-3-background.png"
+    },
+    {
+      "word": "sick",
+      "letters": [ "t", "p", "i", "m", "c", "h", "p", "k", "d", "s", "y", "o" ],
+      "pictures": "level-4-pictures.png",
+      "background": "level-4-background.png"
+    }
+  ]
+}
